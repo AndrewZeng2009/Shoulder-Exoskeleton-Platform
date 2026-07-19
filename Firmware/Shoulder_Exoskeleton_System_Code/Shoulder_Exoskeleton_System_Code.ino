@@ -180,7 +180,7 @@ void loop() {
 
   if (systemMode == 0) {
     detachServoIfAttached();
-    delay(25);
+    delay(10);
     return;
   }
 
@@ -207,5 +207,5 @@ void loop() {
   }
 
   Serial.println(out);
-  delay(25);
+  delay(10);
 }
