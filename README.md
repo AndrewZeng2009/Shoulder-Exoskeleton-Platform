@@ -11,9 +11,9 @@ The target audience is the open-source community: students, hobbyists, and small
 ## Repository Structure
 
 **CAD/**
-- `Native/` — Fusion 360 source files (.f3z)
-- `STEP/` — Universal CAD files (.step)
-- `STL/` — 3D-printable components (.stl)
+- `native/` — Fusion 360 source files (.f3z)
+- `step/` — Universal CAD files (.step)
+- `stl/` — 3D-printable components (.stl)
 
 **Electronics/**
 - `Simple Schematic.png` — Full wiring diagram
