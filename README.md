@@ -10,18 +10,21 @@ The target audience is the open-source community: students, hobbyists, and small
 
 ## Repository Structure
 
-├── CAD/
-│ ├── native/ Fusion 360 source files (.f3z)
-│ ├── step/ Universal CAD files (.step)
-│ └── stl/ 3D-printable components (.stl)
-├── Electronics/
-│ └── Simple Schematic.png
-├── Firmware/
-│ ├── Shoulder_Exoskeleton_System_Code.ino
-│ └── State Machine Diagram.png
-└── Docs/
-├── BOM.md
-└── Assembly_Guide.pdf
+**CAD/**
+- `Native/` — Fusion 360 source files (.f3z)
+- `STEP/` — Universal CAD files (.step)
+- `STL/` — 3D-printable components (.stl)
+
+**Electronics/**
+- `Simple Schematic.png` — Full wiring diagram
+
+**Firmware/**
+- `Shoulder_Exoskeleton_System_Code.ino` — Arduino control firmware
+- `State Machine Diagram.png` — Control state machine diagram
+
+**Docs/**
+- `BOM.md` — Bill of materials with sourcing and pricing
+- `Assembly_Guide.pdf` — Step-by-step build instructions
 
 ---
 
