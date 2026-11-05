@@ -1,0 +1,10 @@
+setup,condition,n,slope_nm_per_v,slope_ci_low,slope_ci_high,r,p
+Bench,Passive-only,10,-0.0581,-0.2352,0.119,-0.2582,0.4713
+Bench,Active-only,10,-0.036,-0.2631,0.191,-0.1282,0.7241
+Bench,Active+passive,10,0.156,-0.1337,0.4457,0.402,0.2495
+In vivo flexion,Passive-only,10,-0.1691,-0.3042,-0.034,-0.7141,0.0203
+In vivo flexion,Active-only,10,0.0629,-0.2322,0.3581,0.1712,0.6363
+In vivo flexion,Active+passive,10,-0.3249,-0.5919,-0.058,-0.7044,0.023
+In vivo abduction,Passive-only,10,0.0799,-0.1585,0.3183,0.2636,0.4617
+In vivo abduction,Active-only,10,0.1456,-0.1169,0.4081,0.412,0.2368
+In vivo abduction,Active+passive,10,0.0678,-0.2048,0.3404,0.1988,0.582

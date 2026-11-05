@@ -1,0 +1,10 @@
+motion,axis,n,mean_deg,sd_deg,cv_pct
+Flexion,pitch,10,20.445,3.079,15.062
+Flexion,roll,10,56.482,3.951,6.994
+Flexion,yaw,10,166.269,5.069,3.048
+Abduction,pitch,10,11.082,2.583,23.312
+Abduction,roll,10,164.632,5.249,3.189
+Abduction,yaw,10,65.596,4.832,7.366
+Horizontal adduction,pitch,10,31.62,4.18,13.218
+Horizontal adduction,roll,10,135.751,5.917,4.359
+Horizontal adduction,yaw,10,17.545,2.855,16.271

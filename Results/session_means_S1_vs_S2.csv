@@ -1,0 +1,79 @@
+measure,motion,load_lb,condition,session1_mean,session2_mean,diff_s2_minus_s1,pct_diff_of_pair_mean
+Mean EMG (counts),Flexion,0,Baseline,147.91,153.95,6.04,4.002
+Peak EMG (counts),Flexion,0,Baseline,292.88,304.8,11.92,3.989
+Mean EMG (counts),Flexion,0,Harness-only,159.344,156.016,-3.328,-2.111
+Peak EMG (counts),Flexion,0,Harness-only,326.384,320.096,-6.288,-1.945
+Mean EMG (counts),Flexion,0,Passive-only,129.716,137.504,7.788,5.829
+Peak EMG (counts),Flexion,0,Passive-only,271.186,273.934,2.748,1.008
+Mean EMG (counts),Flexion,0,Active-only,111.534,119.526,7.992,6.918
+Peak EMG (counts),Flexion,0,Active-only,235.424,238.256,2.832,1.196
+Mean EMG (counts),Flexion,0,Active+passive,90.1,84.24,-5.86,-6.722
+Peak EMG (counts),Flexion,0,Active+passive,173.248,168.452,-4.796,-2.807
+Mean EMG (counts),Flexion,3,Baseline,184.942,180.478,-4.464,-2.443
+Peak EMG (counts),Flexion,3,Baseline,375.688,377.072,1.384,0.368
+Mean EMG (counts),Flexion,3,Harness-only,198.248,183.432,-14.816,-7.764
+Peak EMG (counts),Flexion,3,Harness-only,409.048,365.772,-43.276,-11.171
+Mean EMG (counts),Flexion,3,Passive-only,163.326,152.814,-10.512,-6.65
+Peak EMG (counts),Flexion,3,Passive-only,312.598,300.722,-11.876,-3.873
+Mean EMG (counts),Flexion,3,Active-only,133.264,143.656,10.392,7.505
+Peak EMG (counts),Flexion,3,Active-only,282.924,284.756,1.832,0.645
+Mean EMG (counts),Flexion,3,Active+passive,112.422,109.618,-2.804,-2.526
+Peak EMG (counts),Flexion,3,Active+passive,218.806,211.954,-6.852,-3.181
+Mean EMG (counts),Flexion,5,Baseline,253.298,254.582,1.284,0.506
+Peak EMG (counts),Flexion,5,Baseline,513.466,517.534,4.068,0.789
+Mean EMG (counts),Flexion,5,Harness-only,284.648,254.272,-30.376,-11.273
+Peak EMG (counts),Flexion,5,Harness-only,557.162,509.898,-47.264,-8.859
+Mean EMG (counts),Flexion,5,Passive-only,221.468,234.212,12.744,5.593
+Peak EMG (counts),Flexion,5,Passive-only,450.562,469.918,19.356,4.206
+Mean EMG (counts),Flexion,5,Active-only,206.914,192.446,-14.468,-7.246
+Peak EMG (counts),Flexion,5,Active-only,412.324,398.376,-13.948,-3.441
+Mean EMG (counts),Flexion,5,Active+passive,155.688,175.152,19.464,11.766
+Peak EMG (counts),Flexion,5,Active+passive,322.654,342.326,19.672,5.917
+Mean EMG (counts),Abduction,0,Baseline,205.084,223.956,18.872,8.797
+Peak EMG (counts),Abduction,0,Baseline,391.604,445.016,53.412,12.769
+Mean EMG (counts),Abduction,0,Harness-only,221.616,227.124,5.508,2.455
+Peak EMG (counts),Abduction,0,Harness-only,465.326,459.074,-6.252,-1.353
+Mean EMG (counts),Abduction,0,Passive-only,187.096,202.004,14.908,7.663
+Peak EMG (counts),Abduction,0,Passive-only,394.988,398.772,3.784,0.953
+Mean EMG (counts),Abduction,0,Active-only,165.076,178.784,13.708,7.973
+Peak EMG (counts),Abduction,0,Active-only,325.84,344.68,18.84,5.62
+Mean EMG (counts),Abduction,0,Active+passive,141.994,145.166,3.172,2.209
+Peak EMG (counts),Abduction,0,Active+passive,276.456,277.764,1.308,0.472
+Mean EMG (counts),Abduction,3,Baseline,236.388,257.592,21.204,8.585
+Peak EMG (counts),Abduction,3,Baseline,456.558,506.702,50.144,10.411
+Mean EMG (counts),Abduction,3,Harness-only,252.118,264.742,12.624,4.885
+Peak EMG (counts),Abduction,3,Harness-only,508.65,535.41,26.76,5.126
+Mean EMG (counts),Abduction,3,Passive-only,224.676,216.744,-7.932,-3.594
+Peak EMG (counts),Abduction,3,Passive-only,440.15,411.79,-28.36,-6.658
+Mean EMG (counts),Abduction,3,Active-only,202.838,204.442,1.604,0.788
+Peak EMG (counts),Abduction,3,Active-only,389.444,400.676,11.232,2.843
+Mean EMG (counts),Abduction,3,Active+passive,172.71,178.83,6.12,3.482
+Peak EMG (counts),Abduction,3,Active+passive,351.246,355.354,4.108,1.163
+Mean EMG (counts),Abduction,5,Baseline,282.612,297.508,14.896,5.135
+Peak EMG (counts),Abduction,5,Baseline,581.342,602.098,20.756,3.508
+Mean EMG (counts),Abduction,5,Harness-only,291.468,310.312,18.844,6.263
+Peak EMG (counts),Abduction,5,Harness-only,591.042,622.698,31.656,5.216
+Mean EMG (counts),Abduction,5,Passive-only,259.78,264.48,4.7,1.793
+Peak EMG (counts),Abduction,5,Passive-only,509.67,528.37,18.7,3.603
+Mean EMG (counts),Abduction,5,Active-only,231.102,257.618,26.516,10.851
+Peak EMG (counts),Abduction,5,Active-only,458.1,514.46,56.36,11.59
+Mean EMG (counts),Abduction,5,Active+passive,215.052,205.448,-9.604,-4.568
+Peak EMG (counts),Abduction,5,Active+passive,445.536,416.484,-29.052,-6.74
+Torque (Nm),Bench,,Passive-only,0.696,0.744,0.048,6.667
+Torque (Nm),Bench,,Active-only,2.126,2.134,0.008,0.376
+Torque (Nm),Bench,,Active+passive,3.022,2.958,-0.064,-2.14
+Torque (Nm),In vivo flexion,5,Passive-only,0.528,0.652,0.124,21.017
+Torque (Nm),In vivo flexion,5,Active-only,2.0,2.04,0.04,1.98
+Torque (Nm),In vivo flexion,5,Active+passive,2.646,2.894,0.248,8.953
+Torque (Nm),In vivo abduction,5,Passive-only,0.642,0.558,-0.084,-14.0
+Torque (Nm),In vivo abduction,5,Active-only,2.144,1.936,-0.208,-10.196
+Torque (Nm),In vivo abduction,5,Active+passive,2.852,2.728,-0.124,-4.444
+ROM (deg),Flexion,,pitch,20.214,20.676,0.462,2.26
+ROM (deg),Flexion,,roll,55.126,57.838,2.712,4.802
+ROM (deg),Flexion,,yaw,166.4,166.138,-0.262,-0.158
+ROM (deg),Abduction,,pitch,10.962,11.202,0.24,2.166
+ROM (deg),Abduction,,roll,163.862,165.402,1.54,0.935
+ROM (deg),Abduction,,yaw,63.99,67.202,3.212,4.897
+ROM (deg),Horizontal adduction,,pitch,32.688,30.552,-2.136,-6.755
+ROM (deg),Horizontal adduction,,roll,136.288,135.214,-1.074,-0.791
+ROM (deg),Horizontal adduction,,yaw,17.376,17.714,0.338,1.926
