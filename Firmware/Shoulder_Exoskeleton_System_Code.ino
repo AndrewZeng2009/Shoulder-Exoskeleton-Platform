@@ -16,7 +16,7 @@ const int IR_RECEIVER_PIN = 4;
 int systemMode = 0;
 
 const int EMG_PIN = A0;
-const int EMG_SMOOTH_SAMPLES = 10;
+const int EMG_SMOOTH_SAMPLES = 12;
 const int EMG_THRESHOLD_MIN = 50;
 const int EMG_THRESHOLD_MAX = 500;
 const int EMG_THRESHOLD_STEP = 10;
@@ -24,8 +24,8 @@ int EMG_THRESHOLD = 150;
 
 float emgReadings[EMG_SMOOTH_SAMPLES];
 int emgIndex = 0;
-long emgTotal = 0;
-int emgAverage = 0;
+float emgTotal = 0;
+float emgAverage = 0;
 
 Servo myServo;
 const int SERVO_PIN = 11;
@@ -191,13 +191,16 @@ void loop() {
 
   bno.getEvent(&imuEvent);
 
+  long rawSum = 0;
+  for (int i = 0; i < 8; i++) rawSum += analogRead(EMG_PIN);
+
   String out = "";
-  out += "Raw EMG: " + String(analogRead(EMG_PIN));
+  out += "Raw EMG: " + String(rawSum / 8.0, 2);
   out += " | Smoothed: " + String(emgValue, 2);
   out += " | Threshold: " + String(EMG_THRESHOLD);
   out += " | Encoder: " + String(magnetOK ? encoderAngle : -1);
   out += " | IMU: " + String(imuEvent.orientation.x, 2) + "," + String(imuEvent.orientation.y, 2) + "," + String(imuEvent.orientation.z, 2);
-  out += " | Load: " + String(grams, 2) + "g " + String(grams / 1000.0, 3) + "kg " + String((grams / 1000.0) * 9.80665, 2) + "N";
+  out += " | Load: " + String(grams, 2) + "g " + String(grams / 1000.0, 2) + "kg " + String((grams / 1000.0) * 9.80665, 2) + "N";
 
   if (systemMode == 1) {
     detachServoIfAttached();
