@@ -1,0 +1,421 @@
+session,trial_in_session,run_order_overall,test_type,motion,load_lb,condition,repetition_in_session,trial_index_1to10,emg_mean_counts,emg_peak_counts,torque_nm,pitch_deg,roll_deg,yaw_deg,battery_v_after_trial
+1,1,1,Bench torque,Fixed at 90 deg,,Active-only,1,1,,,1.91,,,,8.40
+1,2,2,EMG,Abduction,3,Active+passive,1,1,148.81,316.21,,,,,8.40
+1,3,3,EMG,Flexion,0,Active-only,1,1,123.10,259.47,,,,,8.39
+1,4,4,EMG,Abduction,5,Active+passive,1,1,229.12,518.96,,,,,8.38
+1,5,5,EMG,Abduction,3,Baseline,1,1,236.58,453.72,,,,,8.38
+1,6,6,EMG,Abduction,5,Baseline,1,1,315.99,614.64,,,,,8.38
+1,7,7,EMG,Abduction,3,Baseline,2,2,226.75,423.36,,,,,8.38
+1,8,8,EMG,Abduction,3,Active-only,1,1,212.82,379.26,,,,,8.37
+1,9,9,EMG,Flexion,3,Passive-only,1,1,166.41,312.97,,,,,8.37
+1,10,10,EMG,Flexion,5,Active-only,1,1,206.96,404.41,,,,,8.37
+1,11,11,EMG,Abduction,5,Passive-only,1,1,246.20,515.02,,,,,8.37
+1,12,12,ROM,Flexion,,,1,1,,,,18.75,51.94,174.81,8.36
+1,13,13,EMG,Abduction,5,Active-only,1,1,235.55,478.06,,,,,8.36
+1,14,14,Bench torque,Fixed at 90 deg,,Active+passive,1,1,,,3.00,,,,8.36
+1,15,15,EMG,Flexion,5,Baseline,1,1,241.05,512.77,,,,,8.35
+1,16,16,EMG,Abduction,0,Active-only,1,1,152.31,303.48,,,,,8.35
+1,17,17,In vivo torque,Flexion,5,Passive-only,1,1,,,0.44,,,,8.34
+1,18,18,ROM,Flexion,,,2,2,,,,19.56,54.00,164.69,8.34
+1,19,19,EMG,Flexion,0,Passive-only,1,1,137.61,296.21,,,,,8.33
+1,20,20,EMG,Flexion,5,Passive-only,1,1,215.25,429.64,,,,,8.32
+1,21,21,EMG,Abduction,0,Active+passive,1,1,152.72,301.50,,,,,8.32
+1,22,22,EMG,Flexion,5,Active-only,2,2,220.74,438.05,,,,,8.32
+1,23,23,EMG,Flexion,5,Baseline,2,2,277.97,566.03,,,,,8.32
+1,24,24,In vivo torque,Abduction,5,Active+passive,1,1,,,2.86,,,,8.31
+1,25,25,In vivo torque,Abduction,5,Active-only,1,1,,,1.94,,,,8.31
+1,26,26,EMG,Abduction,5,Passive-only,2,2,299.59,573.79,,,,,8.31
+1,27,27,In vivo torque,Abduction,5,Active-only,2,2,,,2.09,,,,8.31
+1,28,28,ROM,Abduction,,,1,1,,,,13.50,164.56,58.38,8.31
+1,29,29,EMG,Flexion,3,Active+passive,1,1,111.10,203.43,,,,,8.30
+1,30,30,In vivo torque,Flexion,5,Active-only,1,1,,,2.18,,,,8.28
+1,31,31,EMG,Flexion,5,Active+passive,1,1,152.03,315.02,,,,,8.28
+1,32,32,EMG,Flexion,0,Active+passive,1,1,94.02,172.95,,,,,8.27
+1,33,33,In vivo torque,Flexion,5,Active+passive,1,1,,,2.69,,,,8.27
+1,34,34,EMG,Abduction,0,Active+passive,2,2,150.14,297.69,,,,,8.27
+1,35,35,EMG,Flexion,3,Passive-only,2,2,145.08,300.97,,,,,8.26
+1,36,36,EMG,Abduction,3,Harness-only,1,1,225.97,480.30,,,,,8.26
+1,37,37,EMG,Abduction,0,Active+passive,3,3,128.51,273.36,,,,,8.26
+1,38,38,Bench torque,Fixed at 90 deg,,Passive-only,1,1,,,0.64,,,,8.26
+1,39,39,EMG,Abduction,3,Baseline,3,3,240.83,469.92,,,,,8.26
+1,40,40,In vivo torque,Flexion,5,Passive-only,2,2,,,0.59,,,,8.26
+1,41,41,EMG,Flexion,3,Passive-only,3,3,174.44,330.57,,,,,8.24
+1,42,42,Bench torque,Fixed at 90 deg,,Active-only,2,2,,,2.19,,,,8.24
+1,43,43,In vivo torque,Flexion,5,Passive-only,3,3,,,0.61,,,,8.24
+1,44,44,EMG,Flexion,5,Active+passive,2,2,164.45,325.05,,,,,8.23
+1,45,45,In vivo torque,Flexion,5,Active+passive,2,2,,,2.65,,,,8.23
+1,46,46,In vivo torque,Abduction,5,Active+passive,2,2,,,2.72,,,,8.23
+1,47,47,EMG,Abduction,0,Active-only,2,2,156.70,283.74,,,,,8.22
+1,48,48,EMG,Abduction,3,Passive-only,1,1,202.92,385.57,,,,,8.22
+1,49,49,EMG,Flexion,0,Active+passive,2,2,84.38,166.27,,,,,8.20
+1,50,50,EMG,Flexion,3,Harness-only,1,1,210.20,434.24,,,,,8.20
+1,51,51,EMG,Flexion,3,Active-only,1,1,129.70,264.56,,,,,8.18
+1,52,52,EMG,Flexion,0,Baseline,1,1,148.23,292.66,,,,,8.16
+1,53,53,ROM,Abduction,,,2,2,,,,11.69,157.75,68.81,8.16
+1,54,54,EMG,Flexion,5,Baseline,3,3,257.13,494.76,,,,,8.15
+1,55,55,In vivo torque,Flexion,5,Passive-only,4,4,,,0.46,,,,8.15
+1,56,56,EMG,Abduction,5,Active+passive,2,2,200.41,407.09,,,,,8.15
+1,57,57,EMG,Abduction,0,Harness-only,1,1,211.09,444.09,,,,,8.14
+1,58,58,EMG,Abduction,3,Baseline,4,4,248.80,488.34,,,,,8.13
+1,59,59,In vivo torque,Abduction,5,Active-only,3,3,,,2.26,,,,8.13
+1,60,60,EMG,Flexion,0,Active-only,2,2,113.21,234.03,,,,,8.13
+1,61,61,Bench torque,Fixed at 90 deg,,Passive-only,2,2,,,0.85,,,,8.12
+1,62,62,EMG,Flexion,0,Harness-only,1,1,157.69,344.38,,,,,8.12
+1,63,63,EMG,Flexion,5,Harness-only,1,1,293.35,536.70,,,,,8.12
+1,64,64,EMG,Abduction,3,Active-only,2,2,209.73,409.22,,,,,8.10
+1,65,65,EMG,Flexion,3,Baseline,1,1,186.56,390.94,,,,,8.10
+1,66,66,In vivo torque,Abduction,5,Passive-only,1,1,,,0.69,,,,8.09
+1,67,67,ROM,Abduction,,,3,3,,,,6.31,168.13,68.50,8.08
+1,68,68,EMG,Flexion,5,Active+passive,3,3,150.87,313.84,,,,,8.08
+1,69,69,ROM,Flexion,,,3,3,,,,22.88,62.25,165.44,8.08
+1,70,70,ROM,Horizontal adduction,,,1,1,,,,35.19,136.50,14.69,8.07
+1,71,71,EMG,Flexion,3,Baseline,2,2,158.38,327.31,,,,,8.07
+1,72,72,EMG,Flexion,3,Active-only,2,2,131.51,285.72,,,,,8.06
+1,73,73,EMG,Flexion,0,Baseline,2,2,145.24,301.28,,,,,8.06
+1,74,74,EMG,Abduction,3,Passive-only,2,2,223.39,425.74,,,,,8.06
+1,75,75,EMG,Abduction,3,Active+passive,2,2,160.56,283.55,,,,,8.06
+1,76,76,EMG,Flexion,0,Active-only,3,3,107.09,231.54,,,,,8.04
+1,77,77,EMG,Flexion,3,Active-only,3,3,146.31,302.52,,,,,8.04
+1,78,78,EMG,Flexion,0,Active-only,4,4,117.21,251.81,,,,,8.03
+1,79,79,In vivo torque,Abduction,5,Passive-only,2,2,,,0.59,,,,8.03
+1,80,80,Bench torque,Fixed at 90 deg,,Active+passive,2,2,,,3.27,,,,8.03
+1,81,81,In vivo torque,Abduction,5,Active+passive,3,3,,,2.93,,,,8.04
+1,82,82,EMG,Abduction,0,Active-only,3,3,171.34,342.63,,,,,8.04
+1,83,83,EMG,Abduction,5,Active+passive,3,3,223.09,477.36,,,,,8.04
+1,84,84,In vivo torque,Abduction,5,Passive-only,3,3,,,0.66,,,,8.03
+1,85,85,In vivo torque,Abduction,5,Passive-only,4,4,,,0.52,,,,8.03
+1,86,86,ROM,Horizontal adduction,,,2,2,,,,33.56,128.69,14.50,8.03
+1,87,87,Bench torque,Fixed at 90 deg,,Active+passive,3,3,,,3.09,,,,8.02
+1,88,88,EMG,Abduction,3,Passive-only,3,3,214.13,461.64,,,,,8.02
+1,89,89,EMG,Abduction,0,Harness-only,2,2,258.35,548.54,,,,,8.00
+1,90,90,EMG,Abduction,5,Passive-only,3,3,220.35,427.21,,,,,8.00
+1,91,91,EMG,Abduction,3,Passive-only,4,4,217.98,453.60,,,,,8.00
+1,92,92,EMG,Abduction,3,Harness-only,2,2,276.34,533.38,,,,,7.99
+1,93,93,Bench torque,Fixed at 90 deg,,Active+passive,4,4,,,2.82,,,,7.99
+1,94,94,EMG,Flexion,5,Active-only,3,3,211.32,475.92,,,,,7.99
+1,95,95,EMG,Abduction,5,Active-only,2,2,235.57,466.41,,,,,7.99
+1,96,96,In vivo torque,Abduction,5,Active+passive,4,4,,,2.74,,,,7.99
+1,97,97,EMG,Abduction,3,Harness-only,3,3,239.74,496.45,,,,,7.99
+1,98,98,EMG,Abduction,0,Passive-only,1,1,199.34,432.01,,,,,7.99
+1,99,99,EMG,Flexion,0,Active-only,5,5,97.06,200.27,,,,,7.98
+1,100,100,EMG,Abduction,5,Active-only,3,3,236.94,458.74,,,,,7.98
+1,101,101,EMG,Flexion,5,Active-only,4,4,195.09,380.48,,,,,7.98
+1,102,102,In vivo torque,Flexion,5,Active-only,2,2,,,1.79,,,,7.98
+1,103,103,EMG,Abduction,3,Passive-only,5,5,264.96,474.20,,,,,7.98
+1,104,104,EMG,Abduction,3,Active-only,3,3,182.06,384.92,,,,,7.97
+1,105,105,EMG,Abduction,3,Active+passive,3,3,198.57,388.56,,,,,7.97
+1,106,106,ROM,Flexion,,,4,4,,,,18.75,56.44,160.75,7.97
+1,107,107,EMG,Abduction,5,Active+passive,4,4,222.36,392.53,,,,,7.95
+1,108,108,EMG,Flexion,5,Harness-only,2,2,275.27,517.89,,,,,7.95
+1,109,109,EMG,Abduction,0,Active-only,4,4,161.59,316.23,,,,,7.95
+1,110,110,EMG,Abduction,5,Harness-only,1,1,274.86,541.15,,,,,7.95
+1,111,111,In vivo torque,Abduction,5,Active+passive,5,5,,,3.01,,,,7.94
+1,112,112,EMG,Abduction,3,Active+passive,4,4,175.75,378.24,,,,,7.94
+1,113,113,EMG,Flexion,3,Baseline,3,3,205.00,396.32,,,,,7.93
+1,114,114,EMG,Abduction,5,Active+passive,5,5,200.28,431.74,,,,,7.92
+1,115,115,EMG,Flexion,3,Baseline,4,4,178.39,354.83,,,,,7.92
+1,116,116,ROM,Horizontal adduction,,,3,3,,,,32.88,139.31,22.19,7.92
+1,117,117,EMG,Flexion,0,Harness-only,2,2,182.24,343.24,,,,,7.92
+1,118,118,EMG,Flexion,3,Active-only,4,4,114.68,247.52,,,,,7.91
+1,119,119,EMG,Abduction,5,Passive-only,4,4,282.25,547.29,,,,,7.91
+1,120,120,In vivo torque,Flexion,5,Active+passive,3,3,,,2.58,,,,7.91
+1,121,121,EMG,Flexion,0,Passive-only,2,2,121.19,230.12,,,,,7.91
+1,122,122,EMG,Abduction,0,Passive-only,2,2,157.48,329.15,,,,,7.90
+1,123,123,EMG,Flexion,3,Harness-only,2,2,218.83,459.65,,,,,7.89
+1,124,124,EMG,Flexion,5,Baseline,4,4,257.47,490.98,,,,,7.88
+1,125,125,EMG,Abduction,0,Baseline,1,1,222.04,423.75,,,,,7.88
+1,126,126,EMG,Flexion,3,Active-only,5,5,144.12,314.30,,,,,7.88
+1,127,127,EMG,Flexion,5,Active-only,5,5,200.46,362.76,,,,,7.88
+1,128,128,EMG,Flexion,5,Passive-only,2,2,239.43,481.34,,,,,7.88
+1,129,129,EMG,Abduction,5,Baseline,2,2,259.03,562.70,,,,,7.87
+1,130,130,EMG,Abduction,5,Baseline,3,3,287.34,617.12,,,,,7.87
+1,131,131,EMG,Abduction,3,Harness-only,4,4,269.04,560.23,,,,,7.87
+1,132,132,EMG,Flexion,0,Passive-only,3,3,139.70,301.90,,,,,7.86
+1,133,133,ROM,Abduction,,,4,4,,,,11.31,160.81,60.38,7.86
+1,134,134,EMG,Flexion,0,Active+passive,3,3,90.34,177.87,,,,,7.86
+1,135,135,EMG,Flexion,5,Passive-only,3,3,225.48,492.92,,,,,7.85
+1,136,136,In vivo torque,Abduction,5,Passive-only,5,5,,,0.75,,,,7.86
+1,137,137,ROM,Horizontal adduction,,,4,4,,,,36.56,140.00,20.56,7.86
+1,138,138,Bench torque,Fixed at 90 deg,,Passive-only,3,3,,,0.53,,,,7.86
+1,139,139,EMG,Flexion,0,Baseline,3,3,139.31,265.52,,,,,7.86
+1,140,140,EMG,Abduction,3,Harness-only,5,5,249.50,472.89,,,,,7.86
+1,141,141,EMG,Flexion,3,Active+passive,2,2,116.54,230.38,,,,,7.85
+1,142,142,EMG,Abduction,5,Harness-only,2,2,282.97,550.41,,,,,7.85
+1,143,143,EMG,Flexion,0,Active+passive,4,4,98.19,188.89,,,,,7.85
+1,144,144,EMG,Abduction,5,Active-only,4,4,218.16,455.50,,,,,7.85
+1,145,145,In vivo torque,Flexion,5,Active-only,3,3,,,1.88,,,,7.85
+1,146,146,EMG,Abduction,5,Passive-only,5,5,250.51,485.04,,,,,7.84
+1,147,147,Bench torque,Fixed at 90 deg,,Passive-only,4,4,,,0.72,,,,7.82
+1,148,148,EMG,Flexion,3,Harness-only,3,3,184.66,380.66,,,,,7.82
+1,149,149,EMG,Flexion,3,Active+passive,3,3,123.82,248.41,,,,,7.81
+1,150,150,EMG,Flexion,5,Passive-only,4,4,216.09,412.32,,,,,7.81
+1,151,151,EMG,Abduction,0,Baseline,2,2,198.88,387.73,,,,,7.80
+1,152,152,EMG,Flexion,5,Baseline,5,5,232.87,502.79,,,,,7.79
+1,153,153,Bench torque,Fixed at 90 deg,,Active-only,3,3,,,2.22,,,,7.79
+1,154,154,EMG,Abduction,0,Baseline,3,3,183.23,363.45,,,,,7.79
+1,155,155,EMG,Flexion,3,Passive-only,4,4,169.14,332.62,,,,,7.79
+1,156,156,EMG,Abduction,3,Baseline,5,5,228.98,447.45,,,,,7.79
+1,157,157,EMG,Abduction,0,Harness-only,3,3,212.54,416.46,,,,,7.79
+1,158,158,ROM,Flexion,,,5,5,,,,21.13,51.00,166.31,7.78
+1,159,159,In vivo torque,Abduction,5,Active-only,4,4,,,2.15,,,,7.78
+1,160,160,EMG,Flexion,5,Harness-only,3,3,303.04,577.29,,,,,7.78
+1,161,161,EMG,Abduction,3,Active-only,4,4,214.70,385.29,,,,,7.78
+1,162,162,In vivo torque,Flexion,5,Active+passive,4,4,,,2.73,,,,7.78
+1,163,163,EMG,Flexion,5,Active+passive,4,4,146.67,294.34,,,,,7.78
+1,164,164,Bench torque,Fixed at 90 deg,,Passive-only,5,5,,,0.74,,,,7.78
+1,165,165,EMG,Abduction,0,Harness-only,4,4,197.21,422.29,,,,,7.77
+1,166,166,EMG,Flexion,0,Active+passive,5,5,83.57,160.26,,,,,7.77
+1,167,167,EMG,Flexion,3,Active+passive,4,4,105.69,210.10,,,,,7.77
+1,168,168,EMG,Flexion,0,Harness-only,3,3,151.00,275.01,,,,,7.77
+1,169,169,EMG,Abduction,0,Active-only,5,5,183.44,383.12,,,,,7.77
+1,170,170,EMG,Abduction,3,Active-only,5,5,194.88,388.53,,,,,7.76
+1,171,171,EMG,Abduction,0,Harness-only,5,5,228.89,495.25,,,,,7.76
+1,172,172,In vivo torque,Flexion,5,Active+passive,5,5,,,2.58,,,,7.76
+1,173,173,In vivo torque,Abduction,5,Active-only,5,5,,,2.28,,,,7.76
+1,174,174,EMG,Flexion,3,Active+passive,5,5,104.96,201.71,,,,,7.75
+1,175,175,EMG,Flexion,5,Passive-only,5,5,211.09,436.59,,,,,7.75
+1,176,176,EMG,Flexion,0,Harness-only,4,4,154.84,336.71,,,,,7.75
+1,177,177,EMG,Abduction,0,Passive-only,3,3,190.53,408.48,,,,,7.73
+1,178,178,In vivo torque,Flexion,5,Passive-only,5,5,,,0.54,,,,7.73
+1,179,179,EMG,Abduction,0,Passive-only,4,4,181.29,365.38,,,,,7.73
+1,180,180,EMG,Abduction,0,Baseline,4,4,209.79,389.67,,,,,7.74
+1,181,181,EMG,Flexion,5,Harness-only,4,4,289.04,614.62,,,,,7.74
+1,182,182,ROM,Horizontal adduction,,,5,5,,,,25.25,136.94,14.94,7.73
+1,183,183,EMG,Abduction,5,Baseline,4,4,282.95,528.06,,,,,7.73
+1,184,184,EMG,Abduction,5,Active-only,5,5,229.29,431.79,,,,,7.73
+1,185,185,EMG,Flexion,5,Harness-only,5,5,262.54,539.31,,,,,7.73
+1,186,186,In vivo torque,Flexion,5,Active-only,4,4,,,2.22,,,,7.73
+1,187,187,EMG,Flexion,0,Passive-only,4,4,123.23,238.36,,,,,7.71
+1,188,188,EMG,Abduction,5,Harness-only,3,3,293.32,551.96,,,,,7.71
+1,189,189,ROM,Abduction,,,5,5,,,,12.00,168.06,63.88,7.71
+1,190,190,EMG,Flexion,3,Harness-only,4,4,201.36,399.31,,,,,7.70
+1,191,191,Bench torque,Fixed at 90 deg,,Active+passive,5,5,,,2.93,,,,7.70
+1,192,192,EMG,Flexion,3,Harness-only,5,5,176.19,371.38,,,,,7.70
+1,193,193,EMG,Abduction,0,Active+passive,4,4,145.34,251.07,,,,,7.70
+1,194,194,EMG,Abduction,3,Active+passive,5,5,179.86,389.67,,,,,7.70
+1,195,195,In vivo torque,Flexion,5,Active-only,5,5,,,1.93,,,,7.70
+1,196,196,EMG,Flexion,0,Baseline,4,4,151.49,298.75,,,,,7.68
+1,197,197,EMG,Flexion,0,Passive-only,5,5,126.85,289.34,,,,,7.68
+1,198,198,EMG,Abduction,0,Baseline,5,5,211.48,393.42,,,,,7.66
+1,199,199,EMG,Abduction,5,Harness-only,4,4,281.27,628.38,,,,,7.66
+1,200,200,EMG,Abduction,0,Active+passive,5,5,133.26,258.66,,,,,7.66
+1,201,201,Bench torque,Fixed at 90 deg,,Active-only,4,4,,,2.10,,,,7.66
+1,202,202,EMG,Flexion,3,Baseline,5,5,196.38,409.04,,,,,7.65
+1,203,203,EMG,Abduction,5,Harness-only,5,5,324.92,683.31,,,,,7.65
+1,204,204,EMG,Flexion,5,Active+passive,5,5,164.42,365.02,,,,,7.64
+1,205,205,EMG,Abduction,5,Baseline,5,5,267.75,584.19,,,,,7.64
+1,206,206,EMG,Flexion,3,Passive-only,5,5,161.56,285.86,,,,,7.64
+1,207,207,EMG,Abduction,0,Passive-only,5,5,206.84,439.92,,,,,7.64
+1,208,208,EMG,Flexion,0,Baseline,5,5,155.28,306.19,,,,,7.64
+1,209,209,Bench torque,Fixed at 90 deg,,Active-only,5,5,,,2.21,,,,7.64
+1,210,210,EMG,Flexion,0,Harness-only,5,5,150.95,332.58,,,,,7.63
+2,1,211,EMG,Abduction,0,Passive-only,1,6,197.08,401.40,,,,,7.64
+2,2,212,EMG,Flexion,0,Harness-only,1,6,165.09,336.08,,,,,7.63
+2,3,213,EMG,Abduction,3,Harness-only,1,6,269.74,559.24,,,,,7.63
+2,4,214,EMG,Abduction,5,Baseline,1,6,318.70,581.98,,,,,7.63
+2,5,215,EMG,Abduction,5,Baseline,2,7,262.32,550.75,,,,,7.63
+2,6,216,EMG,Flexion,0,Baseline,1,6,160.39,329.67,,,,,7.63
+2,7,217,EMG,Flexion,3,Baseline,1,6,195.08,402.44,,,,,7.62
+2,8,218,EMG,Flexion,0,Passive-only,1,6,132.04,271.73,,,,,7.62
+2,9,219,EMG,Flexion,3,Passive-only,1,6,175.73,345.19,,,,,7.62
+2,10,220,EMG,Flexion,5,Harness-only,1,6,263.50,496.45,,,,,7.62
+2,11,221,ROM,Horizontal adduction,,,1,6,,,,29.69,145.25,16.13,7.62
+2,12,222,EMG,Flexion,0,Harness-only,2,7,159.92,311.81,,,,,7.61
+2,13,223,EMG,Flexion,3,Active-only,1,6,132.00,254.71,,,,,7.61
+2,14,224,ROM,Flexion,,,1,6,,,,21.25,55.31,171.50,7.61
+2,15,225,EMG,Flexion,0,Active+passive,1,6,86.73,171.74,,,,,7.61
+2,16,226,In vivo torque,Abduction,5,Passive-only,1,6,,,0.38,,,,7.61
+2,17,227,In vivo torque,Abduction,5,Passive-only,2,7,,,0.65,,,,7.60
+2,18,228,In vivo torque,Flexion,5,Active-only,1,6,,,2.13,,,,7.60
+2,19,229,EMG,Abduction,5,Passive-only,1,6,276.20,569.78,,,,,7.59
+2,20,230,EMG,Flexion,5,Baseline,1,6,280.76,597.40,,,,,7.58
+2,21,231,EMG,Abduction,3,Active-only,1,6,193.11,386.20,,,,,7.58
+2,22,232,Bench torque,Fixed at 90 deg,,Passive-only,1,6,,,0.65,,,,7.57
+2,23,233,EMG,Flexion,0,Baseline,2,7,145.53,268.78,,,,,7.56
+2,24,234,EMG,Flexion,3,Baseline,2,7,193.29,392.94,,,,,7.56
+2,25,235,EMG,Flexion,5,Active-only,1,6,166.92,377.37,,,,,7.56
+2,26,236,In vivo torque,Abduction,5,Active-only,1,6,,,1.96,,,,7.56
+2,27,237,EMG,Abduction,5,Active-only,1,6,236.04,472.55,,,,,7.56
+2,28,238,EMG,Abduction,5,Harness-only,1,6,335.33,632.93,,,,,7.55
+2,29,239,EMG,Flexion,0,Passive-only,2,7,147.01,291.41,,,,,7.55
+2,30,240,EMG,Abduction,0,Harness-only,1,6,211.12,426.53,,,,,7.55
+2,31,241,Bench torque,Fixed at 90 deg,,Passive-only,2,7,,,0.77,,,,7.54
+2,32,242,In vivo torque,Flexion,5,Active+passive,1,6,,,2.89,,,,7.54
+2,33,243,In vivo torque,Flexion,5,Passive-only,1,6,,,0.61,,,,7.54
+2,34,244,EMG,Flexion,3,Baseline,3,8,171.66,331.84,,,,,7.54
+2,35,245,EMG,Abduction,5,Active+passive,1,6,181.74,388.26,,,,,7.55
+2,36,246,EMG,Abduction,0,Passive-only,2,7,204.02,414.82,,,,,7.54
+2,37,247,EMG,Flexion,0,Active+passive,2,7,93.82,185.81,,,,,7.54
+2,38,248,In vivo torque,Flexion,5,Active+passive,2,7,,,2.63,,,,7.54
+2,39,249,EMG,Abduction,0,Passive-only,3,8,207.04,402.22,,,,,7.53
+2,40,250,EMG,Flexion,5,Baseline,2,7,270.58,550.60,,,,,7.52
+2,41,251,EMG,Abduction,3,Active-only,2,7,214.10,414.21,,,,,7.52
+2,42,252,In vivo torque,Flexion,5,Active-only,2,7,,,2.19,,,,7.52
+2,43,253,EMG,Flexion,5,Active-only,2,7,204.70,403.02,,,,,7.52
+2,44,254,In vivo torque,Abduction,5,Active-only,2,7,,,1.94,,,,7.52
+2,45,255,EMG,Flexion,3,Harness-only,1,6,172.49,340.83,,,,,7.52
+2,46,256,ROM,Horizontal adduction,,,2,7,,,,34.19,139.06,17.56,7.50
+2,47,257,Bench torque,Fixed at 90 deg,,Active+passive,1,6,,,3.10,,,,7.50
+2,48,258,EMG,Flexion,5,Active+passive,1,6,174.12,325.44,,,,,7.49
+2,49,259,EMG,Abduction,5,Passive-only,2,7,266.01,518.17,,,,,7.49
+2,50,260,EMG,Abduction,5,Active-only,2,7,250.45,506.15,,,,,7.49
+2,51,261,EMG,Flexion,0,Passive-only,3,8,123.44,243.56,,,,,7.48
+2,52,262,Bench torque,Fixed at 90 deg,,Passive-only,3,8,,,0.78,,,,7.48
+2,53,263,In vivo torque,Flexion,5,Passive-only,2,7,,,0.68,,,,7.48
+2,54,264,In vivo torque,Flexion,5,Passive-only,3,8,,,0.58,,,,7.47
+2,55,265,EMG,Flexion,5,Passive-only,1,6,217.97,452.23,,,,,7.47
+2,56,266,In vivo torque,Flexion,5,Active+passive,3,8,,,2.92,,,,7.47
+2,57,267,In vivo torque,Abduction,5,Passive-only,3,8,,,0.69,,,,7.47
+2,58,268,EMG,Flexion,3,Active-only,2,7,145.12,308.11,,,,,7.47
+2,59,269,In vivo torque,Flexion,5,Passive-only,4,9,,,0.61,,,,7.47
+2,60,270,EMG,Flexion,3,Active+passive,1,6,112.32,216.55,,,,,7.46
+2,61,271,EMG,Abduction,3,Baseline,1,6,257.78,476.74,,,,,7.45
+2,62,272,EMG,Flexion,0,Active+passive,3,8,84.12,154.04,,,,,7.45
+2,63,273,EMG,Abduction,3,Active-only,3,8,184.16,336.15,,,,,7.43
+2,64,274,EMG,Abduction,3,Passive-only,1,6,231.06,426.16,,,,,7.42
+2,65,275,EMG,Abduction,5,Active-only,3,8,295.46,564.45,,,,,7.42
+2,66,276,EMG,Abduction,5,Harness-only,2,7,287.67,559.51,,,,,7.41
+2,67,277,EMG,Abduction,3,Active+passive,1,6,158.60,329.89,,,,,7.40
+2,68,278,EMG,Flexion,0,Active-only,1,6,116.59,234.71,,,,,7.40
+2,69,279,EMG,Abduction,3,Active-only,4,9,206.77,408.30,,,,,7.39
+2,70,280,Bench torque,Fixed at 90 deg,,Active+passive,2,7,,,3.20,,,,7.38
+2,71,281,In vivo torque,Abduction,5,Passive-only,4,9,,,0.50,,,,7.39
+2,72,282,Bench torque,Fixed at 90 deg,,Active-only,1,6,,,2.29,,,,7.39
+2,73,283,ROM,Horizontal adduction,,,3,8,,,,24.25,136.13,21.38,7.39
+2,74,284,EMG,Abduction,3,Active+passive,2,7,178.39,374.56,,,,,7.39
+2,75,285,EMG,Flexion,3,Active+passive,2,7,99.49,191.28,,,,,7.38
+2,76,286,EMG,Abduction,5,Active+passive,2,7,218.79,417.18,,,,,7.38
+2,77,287,EMG,Abduction,0,Active-only,1,6,179.39,334.18,,,,,7.37
+2,78,288,EMG,Flexion,0,Harness-only,3,8,134.21,285.20,,,,,7.37
+2,79,289,EMG,Flexion,3,Harness-only,2,7,199.83,367.47,,,,,7.36
+2,80,290,EMG,Flexion,3,Baseline,4,9,189.01,394.22,,,,,7.36
+2,81,291,EMG,Abduction,3,Active-only,5,10,224.07,458.52,,,,,7.34
+2,82,292,EMG,Flexion,0,Baseline,3,8,164.13,343.93,,,,,7.33
+2,83,293,EMG,Flexion,0,Active-only,2,7,127.97,269.70,,,,,7.33
+2,84,294,EMG,Abduction,5,Baseline,3,8,317.18,682.05,,,,,7.33
+2,85,295,EMG,Abduction,0,Active+passive,1,6,133.38,247.68,,,,,7.32
+2,86,296,EMG,Abduction,5,Active+passive,3,8,223.51,435.44,,,,,7.32
+2,87,297,EMG,Abduction,3,Passive-only,2,7,200.03,407.90,,,,,7.32
+2,88,298,EMG,Abduction,5,Active-only,4,9,249.98,547.44,,,,,7.31
+2,89,299,ROM,Abduction,,,1,6,,,,11.81,169.63,71.63,7.31
+2,90,300,EMG,Flexion,0,Active-only,3,8,119.51,235.73,,,,,7.31
+2,91,301,EMG,Abduction,3,Passive-only,3,8,192.35,344.74,,,,,7.30
+2,92,302,EMG,Flexion,5,Passive-only,2,7,213.78,412.10,,,,,7.30
+2,93,303,EMG,Abduction,3,Baseline,2,7,223.00,448.38,,,,,7.30
+2,94,304,EMG,Flexion,5,Passive-only,3,8,262.80,493.79,,,,,7.30
+2,95,305,EMG,Abduction,0,Active+passive,2,7,161.35,301.03,,,,,7.30
+2,96,306,EMG,Abduction,3,Harness-only,2,7,268.75,529.53,,,,,7.30
+2,97,307,In vivo torque,Abduction,5,Active-only,3,8,,,1.76,,,,7.29
+2,98,308,EMG,Abduction,0,Active+passive,3,8,150.44,278.37,,,,,7.28
+2,99,309,EMG,Flexion,3,Baseline,5,10,153.35,363.92,,,,,7.28
+2,100,310,EMG,Abduction,5,Active+passive,4,9,207.17,428.49,,,,,7.28
+2,101,311,EMG,Flexion,3,Passive-only,2,7,149.78,303.38,,,,,7.28
+2,102,312,Bench torque,Fixed at 90 deg,,Active+passive,3,8,,,2.90,,,,7.28
+2,103,313,EMG,Abduction,0,Harness-only,2,7,232.04,441.85,,,,,7.28
+2,104,314,In vivo torque,Abduction,5,Active+passive,1,6,,,2.50,,,,7.27
+2,105,315,In vivo torque,Abduction,5,Active-only,4,9,,,2.01,,,,7.27
+2,106,316,EMG,Flexion,3,Active-only,3,8,147.66,279.14,,,,,7.27
+2,107,317,ROM,Flexion,,,2,7,,,,22.31,58.00,164.31,7.27
+2,108,318,EMG,Abduction,5,Baseline,4,9,283.45,573.60,,,,,7.26
+2,109,319,ROM,Abduction,,,2,7,,,,12.06,169.50,65.13,7.27
+2,110,320,EMG,Flexion,5,Passive-only,4,9,229.85,472.78,,,,,7.27
+2,111,321,EMG,Abduction,0,Baseline,1,6,218.48,437.80,,,,,7.27
+2,112,322,EMG,Abduction,5,Harness-only,3,8,292.45,640.19,,,,,7.27
+2,113,323,EMG,Flexion,3,Active-only,4,9,141.85,292.54,,,,,7.25
+2,114,324,EMG,Abduction,0,Passive-only,4,9,191.81,354.60,,,,,7.25
+2,115,325,EMG,Abduction,0,Baseline,2,7,191.51,392.20,,,,,7.25
+2,116,326,EMG,Flexion,5,Active+passive,2,7,174.45,318.18,,,,,7.25
+2,117,327,ROM,Abduction,,,3,8,,,,13.13,164.75,64.56,7.25
+2,118,328,EMG,Flexion,0,Active+passive,4,9,85.26,178.35,,,,,7.25
+2,119,329,EMG,Flexion,0,Baseline,4,9,133.84,262.32,,,,,7.25
+2,120,330,ROM,Abduction,,,4,9,,,,12.63,154.69,73.06,7.24
+2,121,331,EMG,Abduction,0,Active-only,2,7,186.04,363.17,,,,,7.23
+2,122,332,EMG,Flexion,3,Passive-only,3,8,144.94,251.94,,,,,7.23
+2,123,333,EMG,Abduction,5,Passive-only,3,8,272.59,528.53,,,,,7.23
+2,124,334,EMG,Flexion,5,Harness-only,2,7,227.40,496.18,,,,,7.23
+2,125,335,In vivo torque,Flexion,5,Active+passive,4,9,,,3.12,,,,7.23
+2,126,336,EMG,Abduction,3,Active+passive,3,8,174.64,360.93,,,,,7.23
+2,127,337,In vivo torque,Flexion,5,Passive-only,5,10,,,0.78,,,,7.21
+2,128,338,Bench torque,Fixed at 90 deg,,Active-only,2,7,,,2.18,,,,7.21
+2,129,339,In vivo torque,Flexion,5,Active-only,3,8,,,2.03,,,,7.21
+2,130,340,ROM,Horizontal adduction,,,4,9,,,,30.25,129.44,16.25,7.21
+2,131,341,EMG,Abduction,3,Harness-only,3,8,268.72,544.28,,,,,7.21
+2,132,342,EMG,Abduction,0,Harness-only,3,8,220.52,450.08,,,,,7.21
+2,133,343,EMG,Flexion,5,Baseline,3,8,232.25,443.40,,,,,7.20
+2,134,344,ROM,Flexion,,,3,8,,,,17.88,55.44,163.19,7.20
+2,135,345,EMG,Abduction,0,Baseline,3,8,251.43,461.60,,,,,7.19
+2,136,346,EMG,Abduction,5,Harness-only,4,9,310.51,642.90,,,,,7.19
+2,137,347,EMG,Abduction,3,Active+passive,4,9,189.07,357.33,,,,,7.19
+2,138,348,EMG,Abduction,5,Active+passive,5,10,196.03,413.05,,,,,7.19
+2,139,349,EMG,Abduction,3,Baseline,3,8,281.33,550.42,,,,,7.18
+2,140,350,Bench torque,Fixed at 90 deg,,Active+passive,4,9,,,2.85,,,,7.17
+2,141,351,EMG,Abduction,5,Baseline,5,10,305.89,622.11,,,,,7.17
+2,142,352,EMG,Abduction,0,Baseline,4,9,236.97,470.57,,,,,7.16
+2,143,353,EMG,Abduction,5,Passive-only,4,9,235.47,480.77,,,,,7.16
+2,144,354,EMG,Abduction,0,Harness-only,4,9,264.22,523.59,,,,,7.16
+2,145,355,EMG,Flexion,0,Passive-only,4,9,138.92,276.13,,,,,7.15
+2,146,356,In vivo torque,Abduction,5,Active+passive,2,7,,,2.78,,,,7.15
+2,147,357,EMG,Flexion,0,Harness-only,4,9,161.60,336.27,,,,,7.15
+2,148,358,EMG,Abduction,0,Active+passive,4,9,141.48,295.72,,,,,7.15
+2,149,359,EMG,Abduction,5,Active-only,5,10,256.16,481.71,,,,,7.15
+2,150,360,EMG,Abduction,3,Passive-only,4,9,228.04,405.68,,,,,7.14
+2,151,361,Bench torque,Fixed at 90 deg,,Active-only,3,8,,,2.12,,,,7.14
+2,152,362,EMG,Abduction,0,Active-only,3,8,189.39,352.71,,,,,7.14
+2,153,363,EMG,Flexion,3,Harness-only,3,8,183.03,358.15,,,,,7.13
+2,154,364,EMG,Flexion,5,Harness-only,3,8,275.85,521.19,,,,,7.13
+2,155,365,EMG,Flexion,3,Harness-only,4,9,172.97,366.15,,,,,7.13
+2,156,366,EMG,Abduction,3,Passive-only,5,10,232.24,474.47,,,,,7.12
+2,157,367,Bench torque,Fixed at 90 deg,,Active-only,4,9,,,2.19,,,,7.12
+2,158,368,EMG,Abduction,5,Passive-only,5,10,272.13,544.60,,,,,7.11
+2,159,369,EMG,Flexion,5,Active+passive,3,8,176.62,392.97,,,,,7.11
+2,160,370,ROM,Flexion,,,4,9,,,,26.50,63.19,172.31,7.10
+2,161,371,EMG,Flexion,3,Active+passive,3,8,102.46,206.21,,,,,7.10
+2,162,372,Bench torque,Fixed at 90 deg,,Passive-only,4,9,,,0.74,,,,7.09
+2,163,373,EMG,Abduction,0,Passive-only,5,10,210.07,420.82,,,,,7.09
+2,164,374,Bench torque,Fixed at 90 deg,,Active-only,5,10,,,1.89,,,,7.08
+2,165,375,EMG,Flexion,0,Baseline,5,10,165.86,319.30,,,,,7.08
+2,166,376,EMG,Flexion,0,Harness-only,5,10,159.26,331.12,,,,,7.08
+2,167,377,EMG,Abduction,0,Harness-only,5,10,207.72,453.32,,,,,7.09
+2,168,378,In vivo torque,Abduction,5,Active+passive,3,8,,,2.49,,,,7.08
+2,169,379,In vivo torque,Flexion,5,Active-only,4,9,,,1.93,,,,7.08
+2,170,380,EMG,Flexion,5,Active-only,3,8,196.34,386.43,,,,,7.07
+2,171,381,In vivo torque,Flexion,5,Active+passive,5,10,,,2.91,,,,7.07
+2,172,382,EMG,Abduction,0,Active+passive,5,10,139.18,266.02,,,,,7.06
+2,173,383,EMG,Flexion,5,Active+passive,4,9,170.59,304.97,,,,,7.06
+2,174,384,EMG,Flexion,5,Harness-only,4,9,264.85,575.00,,,,,7.06
+2,175,385,EMG,Flexion,0,Active-only,4,9,113.53,222.45,,,,,7.05
+2,176,386,EMG,Abduction,0,Active-only,4,9,156.19,310.01,,,,,7.03
+2,177,387,EMG,Flexion,5,Harness-only,5,10,239.76,460.67,,,,,7.03
+2,178,388,EMG,Abduction,3,Harness-only,4,9,236.90,452.58,,,,,7.03
+2,179,389,EMG,Abduction,3,Harness-only,5,10,279.60,591.42,,,,,7.03
+2,180,390,ROM,Flexion,,,5,10,,,,15.44,57.25,159.38,7.02
+2,181,391,EMG,Flexion,0,Active-only,5,10,120.03,228.69,,,,,7.02
+2,182,392,In vivo torque,Abduction,5,Active-only,5,10,,,2.01,,,,7.01
+2,183,393,Bench torque,Fixed at 90 deg,,Active+passive,5,10,,,2.74,,,,7.01
+2,184,394,EMG,Flexion,3,Passive-only,4,9,152.94,323.87,,,,,7.01
+2,185,395,ROM,Abduction,,,5,10,,,,6.38,168.44,61.63,7.01
+2,186,396,EMG,Flexion,5,Active-only,4,9,192.75,389.06,,,,,7.01
+2,187,397,EMG,Abduction,3,Baseline,4,9,259.96,530.03,,,,,7.01
+2,188,398,EMG,Flexion,5,Active-only,5,10,201.52,436.00,,,,,7.00
+2,189,399,EMG,Flexion,3,Active+passive,4,9,107.94,209.42,,,,,7.00
+2,190,400,EMG,Flexion,5,Passive-only,5,10,246.66,518.69,,,,,7.00
+2,191,401,EMG,Flexion,0,Active+passive,5,10,71.27,152.32,,,,,6.99
+2,192,402,EMG,Flexion,5,Baseline,4,9,237.25,475.03,,,,,6.99
+2,193,403,EMG,Flexion,5,Baseline,5,10,252.07,521.24,,,,,6.99
+2,194,404,EMG,Abduction,0,Active-only,5,10,182.91,363.33,,,,,6.99
+2,195,405,Bench torque,Fixed at 90 deg,,Passive-only,5,10,,,0.78,,,,6.99
+2,196,406,ROM,Horizontal adduction,,,5,10,,,,34.38,126.19,17.25,6.99
+2,197,407,EMG,Flexion,3,Passive-only,5,10,140.68,279.23,,,,,6.99
+2,198,408,EMG,Abduction,3,Active+passive,5,10,193.45,354.06,,,,,6.98
+2,199,409,EMG,Flexion,3,Harness-only,5,10,188.84,396.26,,,,,6.98
+2,200,410,In vivo torque,Flexion,5,Active-only,5,10,,,1.92,,,,6.97
+2,201,411,In vivo torque,Abduction,5,Passive-only,5,10,,,0.57,,,,6.97
+2,202,412,In vivo torque,Abduction,5,Active+passive,4,9,,,2.82,,,,6.97
+2,203,413,EMG,Flexion,3,Active+passive,5,10,125.88,236.31,,,,,6.97
+2,204,414,EMG,Abduction,5,Harness-only,5,10,325.60,637.96,,,,,6.97
+2,205,415,EMG,Flexion,5,Active+passive,5,10,179.98,370.07,,,,,6.97
+2,206,416,EMG,Abduction,3,Baseline,5,10,265.89,527.94,,,,,6.96
+2,207,417,EMG,Abduction,0,Baseline,5,10,221.39,462.91,,,,,6.94
+2,208,418,In vivo torque,Abduction,5,Active+passive,5,10,,,3.05,,,,6.94
+2,209,419,EMG,Flexion,0,Passive-only,5,10,146.11,286.84,,,,,6.94
+2,210,420,EMG,Flexion,3,Active-only,5,10,151.65,289.28,,,,,6.94
