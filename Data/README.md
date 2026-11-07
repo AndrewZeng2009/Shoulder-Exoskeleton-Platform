@@ -21,6 +21,8 @@ No personally identifying information is included.
 | `pitch_deg`, `roll_deg`, `yaw_deg` | Maximum Euler angle on each axis during the ROM trial (degrees; BNO055 fused output) |
 | `battery_v_after_trial` | 2S LiPo voltage read after the trial with a charger's voltage readout (V) |
 
+In addition to the 420 after-trial readings in `battery_v_after_trial`, battery voltage was read once before the first trial of each session: 8.40 V before Session 1 and 7.64 V before Session 2. The battery was not recharged between sessions.
+
 Reproduce every statistic, table, and figure in the paper with:
 
 ```
